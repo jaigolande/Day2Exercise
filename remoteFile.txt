@@ -1,2 +1,3 @@
 updated file now remote file created
+try for git fetch and merge
 file update in local
